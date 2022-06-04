@@ -1,8 +1,8 @@
 # Pygame-Tetris
-A simple game made in Pygame to practice python skills
+A simple tetris copy made in Pygame to practice python skills
 
-![Alt text](assets/ss.png?raw=true "Title")
+![Screenshot](assets/ss.png?raw=true "Title")
 
 # Requirements
-> Python 3.9
-> Pygame
+- Python 3.9
+- Pygame
