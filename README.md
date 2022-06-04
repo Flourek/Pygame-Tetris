@@ -1,3 +1,3 @@
 # Pygame-Tetris
 
-![Alt text](assets/screenshot.png?raw=true "Title")
+![Alt text](assets/ss.png?raw=true "Title")
